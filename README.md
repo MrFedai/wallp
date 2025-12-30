@@ -1,2 +1,3 @@
 # wallp
 Wallpapers
+Terminator config 
